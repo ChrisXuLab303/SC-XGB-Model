@@ -1,7 +1,7 @@
 # SC-XGB-Model
 
 This repository provides code for intelligent multi-objective scheduling rule extraction using a Spatiotemporal Correction of decision variables with XGBoost (SC-XGB) model, 
-along with a baseline XGB_Model, SC-BP_Model, and BP_Model for comparison.
+along with a baseline BP_Model for comparison.
 
 Reservoir system scheduling often requires intelligent rules that can adapt to complex multi-objective trade-offs. 
 This project proposes a data-driven scheduling rule extraction framework based on optimized samples derived from design flood scenarios.
