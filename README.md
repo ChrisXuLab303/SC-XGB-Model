@@ -19,6 +19,7 @@ Testing Set (Historical Flood Events)
 | 2016-06-15 | 50-year        |
 | 2020-07-06 | 100-year       |
 
+Python is an open-source programming language widely used for scientific computing, data analysis, and machine learning. It is freely available at: https://www.python.org/. 
 Install dependencies (e.g. Python 3.8, XGBoost ≥1.3.0, Scikit-learn ≥0.24, NumPy ≥1.19, Pandas ≥1.1), then run SC-XGB_Model.py and BP_Model.py
 
 Notes
