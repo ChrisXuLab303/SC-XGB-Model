@@ -19,4 +19,12 @@ Testing Set (Historical Flood Events)
 | 2016-06-15 | 50-year        |
 | 2020-07-06 | 100-year       |
 
+Install dependencies (e.g. Python 3.8, XGBoost ≥1.3.0, Scikit-learn ≥0.24, NumPy ≥1.19, Pandas ≥1.1), then run SC-XGB_Model.py and BP_Model.py
 
+Notes
+Please ensure the input data files are correctly placed or adjusted in the scripts.
+Results from both models can be compared on accuracy, applicability, and robustness to flood event scale.
+
+Contact
+Maintainer: HUILI WANG
+Feel free to reach out for questions or collaboration.
