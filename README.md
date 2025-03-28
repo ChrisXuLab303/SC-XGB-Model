@@ -5,6 +5,7 @@ along with a baseline BP_Model for comparison.
 
 Reservoir system scheduling often requires intelligent rules that can adapt to complex multi-objective trade-offs. 
 This project proposes a data-driven scheduling rule extraction framework based on optimized samples derived from design flood scenarios.
+Data availability: https://github.com/ChrisXuLab303/SC-XGB-flood-scheduling-dataset 
 
 # Dataset & Experiment Setup
 
@@ -27,5 +28,7 @@ Please ensure the input data files are correctly placed or adjusted in the scrip
 Results from both models can be compared on accuracy, applicability, and robustness to flood event scale.
 
 Contact
+
 Maintainer: HUILI WANG
+
 Feel free to reach out for questions or collaboration.
